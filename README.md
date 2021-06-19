@@ -1,6 +1,9 @@
 # bmicalculator
 
-A new Flutter project.
+Version 1.0
+Publishing Date : 19.JUNE.2021
+-------------------------------
+
 
 ## Getting Started
 
