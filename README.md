@@ -1,4 +1,4 @@
-# bmicalculator
+# BMI Calculator
 
 Version 1.0
 Publishing Date : 19.JUNE.2021
