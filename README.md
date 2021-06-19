@@ -3,7 +3,7 @@
 Version 1.0
 Publishing Date : 19.JUNE.2021
 -------------------------------
-
+Download the release here - https://drive.google.com/file/d/1fbIEUXrzHa36JaMNQEqBYk5iw5G-5BmF/view?usp=sharing
 
 ## Getting Started
 
