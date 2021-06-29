@@ -1,19 +1,19 @@
 # BMI Calculator
 
-Version 1.0
-Publishing Date : 19.JUNE.2021
--------------------------------
-Download the release here - https://drive.google.com/file/d/1fbIEUXrzHa36JaMNQEqBYk5iw5G-5BmF/view?usp=sharing
+# Version 1.0 Publishing Date : 19.JUNE.2021
 
-## Getting Started
+To download this android app and run it on you physical device, download the apk and install it on you device.[Download Here](https://drive.google.com/file/d/1fbIEUXrzHa36JaMNQEqBYk5iw5G-5BmF/view?usp=sharing).
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project has been made using Flutter(2.2) and Dart(2.13). This project contains supports for Andriod, IOS, as well as Web.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This is a platfrom where a can check his or her BMI.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Feel free to do anything this repository.
+
+## Learn 
+
+- [DART PROGRAMMING LANGUAGE](https://dart.dev/)
+- [FLUTTER](https://flutter.dev/)
